@@ -1,15 +1,15 @@
 # NTE Studio
 
-NTE Studio is an open-source build planner, optimizer and damage calculator for Neverness to Everness (NTE).
+An open-source build planner, optimizer and damage calculator for Neverness to Everness.
 
-## Features
+## Status
 
-- Character Builder
-- Damage Calculator
-- Team Optimizer
-- Driver Inventory
-- Theory Lab
+🚧 Under Development
+
+## Author
+
+NSNE1302
 
 ## License
 
-MIT License
+MIT
