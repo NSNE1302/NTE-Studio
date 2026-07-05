@@ -1,0 +1,1 @@
+import DatabaseManager from "@/infrastructure/database";
