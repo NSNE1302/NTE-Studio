@@ -14,10 +14,9 @@ export default class CombatCalculator {
         stat,
         multiplier,
         enemy
-    ) {
+    ){
 
-        const result =
-            new DamageResult();
+        const stat = builder.build(character);
 
         result.finalDamage =
             this.directFormula.calculate(
